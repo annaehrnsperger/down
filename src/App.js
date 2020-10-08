@@ -31,7 +31,7 @@ const App = () =>
       autoPlay
       muted
       loop
-      playsinline
+      playsInline
       style={{ position: 'absolute' }}
     />
     <Canvas style={{ position: 'absolute' }}>
